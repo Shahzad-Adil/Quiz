@@ -105,6 +105,7 @@ public class MainActivity extends Activity {
     public void falseBtnListener(View view) {
         checkFalseAnswer();
         updateQuestion();
+        //comment
     }
 
     private void checkFalseAnswer() {
